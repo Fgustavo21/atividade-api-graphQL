@@ -1,0 +1,19 @@
+{
+  "name": "atividade-api-graphql",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "Este projeto é um esboço de API GraphQL utilizando node.js com Express.",
+  "devDependencies": {
+    "@types/node": "^20.11.28",
+    "typescript": "^5.4.2"
+  },
+  "dependencies": {
+    "undici-types": "^5.26.5"
+  }
+}
